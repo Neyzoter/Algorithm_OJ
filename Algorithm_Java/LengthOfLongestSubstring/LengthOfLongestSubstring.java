@@ -18,15 +18,14 @@ public class LengthOfLongestSubstring {
  */
 class Solution_LengthOfLongestSubstring1 {
     public int lengthOfLongestSubstring(String s) {
-    	char[] charArray = s.toCharArray();
     	int start=0,end=0;
     	int idx_find=0;
     	int length_max=0;
     	
-    	while(end<charArray.length) {
+    	while(end<s.length()) {
     		idx_find = start;
     		while(idx_find<end) {
-    			if(charArray[idx_find]==charArray[end]) {//如果找到了一个相等的则可以确定start位置为下一个
+    			if(s.charAt(idx_find)==s.charAt(end)) {//如果找到了一个相等的则可以确定start位置为下一个
     				start = idx_find+1;
     				break;
     			}
