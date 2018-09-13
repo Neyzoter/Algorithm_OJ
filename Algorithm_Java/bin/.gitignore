@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /AddTwoNumbers.class
 /LengthOfLongestSubstring.class
 /ListNode.class
@@ -14,3 +15,7 @@
 /Solution_LongestPalindrome.class
 /ThreeSum.class
 /TwoSum.class
+=======
+/Solution_LongestPalindrome1.class
+/Solution_LongestPalindrome2.class
+>>>>>>> 609eeb95fc17dba009bbf94c36054d81fc7c0a98
