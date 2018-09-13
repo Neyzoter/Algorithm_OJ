@@ -7,5 +7,6 @@
 	<classpathentry kind="src" path="AddTwoNumbers"/>
 	<classpathentry kind="src" path="LengthOfLongestSubstring"/>
 	<classpathentry kind="src" path="LongestPalindrome"/>
+	<classpathentry kind="src" path="BroSring"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
