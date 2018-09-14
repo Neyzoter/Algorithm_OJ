@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="LengthOfLongestSubstring"/>
 	<classpathentry kind="src" path="LongestPalindrome"/>
 	<classpathentry kind="src" path="BroSring"/>
+	<classpathentry kind="src" path="Palindrome"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
